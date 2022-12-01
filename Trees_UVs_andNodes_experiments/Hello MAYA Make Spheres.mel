@@ -1,0 +1,81 @@
+import maya.cmds as mc
+
+def ball_party(value = 5):
+    for i in range(value):
+        mc.polySphere(r = 1, sx = 20, sy = 20, ax = (0,1,0), cuv = 2, ch = False)
+        
+ball_party(value =  20)
+import maya.cmds as mc
+
+def ball_party(value = 5):
+    for i in range(value):
+        mc.polySphere(r = 1, sx = 20, sy = 20, ax = (0,1,0), cuv = 2, ch = False)
+        
+ball_party(value =  20)
+// Undo: import maya.cmds as mc
+
+def ball_party(value = 5):
+    for i in range(value):
+        mc.polySphere(r = 1, sx = 20, sy = 20, ax = (0,1,0), cuv = 2, ch = False)
+        
+ball_party(value =  20) // 
+// Undo: import maya.cmds as mc
+
+def ball_party(value = 5):
+    for i in range(value):
+        mc.polySphere(r = 1, sx = 20, sy = 20, ax = (0,1,0), cuv = 2, ch = False)
+        
+ball_party(value =  20) // 
+// Undo: doDelete // 
+// Undo: select -r pSphere1 pSphere2 pSphere3 pSphere4 pSphere5 pSphere6 pSphere7 pSphere8 pSphere9 pSphere10 pSphere11 pSphere12 pSphere13 pSphere14 pSphere15 pSphere16 pSphere17 pSphere18 pSphere19 pSphere20  // 
+// Undo:  // 
+import maya.cmds as mc
+
+def ball_party(value = 5):
+    for i in range(value):
+        mc.polySphere(r = 1, sx = 20, sy = 20, ax = (0,1,0), cuv = 2, ch = False)
+        
+ball_party(value =  20)
+// Undo: import maya.cmds as mc
+
+def ball_party(value = 5):
+    for i in range(value):
+        mc.polySphere(r = 1, sx = 20, sy = 20, ax = (0,1,0), cuv = 2, ch = False)
+        
+ball_party(value =  20) // 
+select -r pSphere1 pSphere2 pSphere3 pSphere4 pSphere5 pSphere6 pSphere7 pSphere8 pSphere9 pSphere10 pSphere11 pSphere12 pSphere13 pSphere14 pSphere15 pSphere16 pSphere17 pSphere18 pSphere19 ;
+select -r side ;
+import maya.cmds as mc
+
+def ball_party(value = 5):
+    for i in range(value):
+        mc.polySphere(r = 1, sx = 20, sy = 20, ax = (0,1,0), cuv = 2, ch = False)
+        
+ball_party(value =  20)
+
+# def getR()
+import maya.cmds as mc
+
+def ball_party(value = 5):
+    for i in range(value):
+        mc.polySphere(r = 1, sx = 20, sy = 20, ax = (0,1,0), cuv = 2, ch = False)
+        
+ball_party(value =  20)
+
+# def getR()
+ball_party(value =  20)
+
+ball_party(value =  20)
+
+ball_party(value =  20)
+
+ball_party(value =  20)
+
+select -r pSphere120 ;
+select -cl  ;
+select -r pSphere120 ;
+select -r pSphere1 pSphere2 pSphere3 pSphere4 pSphere5 pSphere6 pSphere7 pSphere8 pSphere9 pSphere10 pSphere11 pSphere12 pSphere13 pSphere14 pSphere15 pSphere16 pSphere17 pSphere18 pSphere19 pSphere20 pSphere21 pSphere22 pSphere23 pSphere24 pSphere25 pSphere26 pSphere27 pSphere28 pSphere29 pSphere30 pSphere31 pSphere32 pSphere33 pSphere34 pSphere35 pSphere36 pSphere37 pSphere38 pSphere39 pSphere40 pSphere41 pSphere42 pSphere43 pSphere44 pSphere45 pSphere46 pSphere47 pSphere48 pSphere49 pSphere50 pSphere51 pSphere52 pSphere53 pSphere54 pSphere55 pSphere56 pSphere57 pSphere58 pSphere59 pSphere60 pSphere61 pSphere62 pSphere63 pSphere64 pSphere65 pSphere66 pSphere67 pSphere68 pSphere69 pSphere70 pSphere71 pSphere72 pSphere73 pSphere74 pSphere75 pSphere76 pSphere77 pSphere78 pSphere79 pSphere80 pSphere81 pSphere82 pSphere83 pSphere84 pSphere85 pSphere86 pSphere87 pSphere88 pSphere89 pSphere90 pSphere91 pSphere92 pSphere93 pSphere94 pSphere95 pSphere96 pSphere97 pSphere98 pSphere99 pSphere100 pSphere101 pSphere102 pSphere103 pSphere104 pSphere105 pSphere106 pSphere107 pSphere108 pSphere109 pSphere110 pSphere111 pSphere112 pSphere113 pSphere114 pSphere115 pSphere116 pSphere117 pSphere118 pSphere119 pSphere120 ;
+select -r -ne defaultLightSet ;
+select -cl  ;
+select -r -ne defaultLightSet ;
+select -cl  ;
